@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\EchoesOfTheFracture.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EchoesOfTheFracture.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\EchoesOfTheFractureEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\EchoesOfTheFracture">
+      <UniqueIdentifier>{C4749CC7-45D7-394B-957C-1A26E6DD5329}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EchoesOfTheFracture\EchoesOfTheFracture.Build.cs">
+      <Filter>Source\EchoesOfTheFracture</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\EchoesOfTheFracture\EchoesOfTheFracture.cpp">
+      <Filter>Source\EchoesOfTheFracture</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EchoesOfTheFracture\EchoesOfTheFracture.h">
+      <Filter>Source\EchoesOfTheFracture</Filter>
+    </ClCompile>
+    <Filter Include="Source\EchoesOfTheFracture\Private">
+      <UniqueIdentifier>{6394D394-CE0D-32B8-990F-AA3E2983ECB7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\EchoesOfTheFracture\Private\RessourceCollector.cpp">
+      <Filter>Source\EchoesOfTheFracture\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\EchoesOfTheFracture\Public">
+      <UniqueIdentifier>{F94792D0-91B1-3236-A150-16FB5071406F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\EchoesOfTheFracture\Public\RessourceCollector.h">
+      <Filter>Source\EchoesOfTheFracture\Public</Filter>
+    </ClCompile>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Camera">
+      <UniqueIdentifier>{CA3CF7B2-1610-345E-B150-7A8A90093970}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Camera\Camera.uplugin">
+      <Filter>Plugins\Camera</Filter>
+    </None>
+    <Filter Include="Plugins\Camera\Resources">
+      <UniqueIdentifier>{E2A89F8A-B414-3216-A38F-859D8EEE5DBC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Camera\Resources\Icon128.png">
+      <Filter>Plugins\Camera\Resources</Filter>
+    </None>
+  </ItemGroup>
+</Project>

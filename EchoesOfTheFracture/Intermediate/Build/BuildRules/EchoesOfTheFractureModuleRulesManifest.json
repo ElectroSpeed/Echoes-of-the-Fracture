@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\angyo\\Documents\\GitHub\\Echoes-of-the-Fracture\\EchoesOfTheFracture\\Source\\EchoesOfTheFracture\\EchoesOfTheFracture.Build.cs",
+		"C:\\Users\\angyo\\Documents\\GitHub\\Echoes-of-the-Fracture\\EchoesOfTheFracture\\Source\\EchoesOfTheFracture.Target.cs",
+		"C:\\Users\\angyo\\Documents\\GitHub\\Echoes-of-the-Fracture\\EchoesOfTheFracture\\Source\\EchoesOfTheFractureEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}

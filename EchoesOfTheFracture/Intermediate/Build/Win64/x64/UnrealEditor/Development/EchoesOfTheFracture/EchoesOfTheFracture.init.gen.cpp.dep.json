@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\angyo\\documents\\github\\echoes-of-the-fracture\\echoesofthefracture\\intermediate\\build\\win64\\unrealeditor\\inc\\echoesofthefracture\\uht\\echoesofthefracture.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\angyo\\documents\\github\\echoes-of-the-fracture\\echoesofthefracture\\intermediate\\build\\win64\\x64\\echoesofthefractureeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\angyo\\documents\\github\\echoes-of-the-fracture\\echoesofthefracture\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\echoesofthefracture\\definitions.echoesofthefracture.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
