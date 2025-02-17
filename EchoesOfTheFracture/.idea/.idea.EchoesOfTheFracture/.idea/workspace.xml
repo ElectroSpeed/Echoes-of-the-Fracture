@@ -15,43 +15,26 @@
     <list default="true" id="88a24e53-fd09-4186-8e3c-ebb19d5ce0c9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EchoesOfTheFracture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EchoesOfTheFracture/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Building/BP_Building_Class.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Building/BP_Building_Class.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Camera/RTS_GameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Camera/RTS_GameMode.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Menu/MainMenu.umap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Menu/MainMenuWidget.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Menu/Map.umap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/RTS/BP_Game_ModeBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/RTS/BP_Game_ModeBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/RTS/BP_Menu_Controller.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/RTS/BP_Menu_Controller.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/RTS/BP_RTS_Controller.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/RTS/BP_RTS_Controller.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/RTS/RTS_GameMode.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/RTS/RTS_Marque_HUD.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/RTS/RTS_MenuGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/RTS/RTS_MenuGameMode.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/RTS/SelectedUnitsArea.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Unit/BP_Unit_Class.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Unit/BP_Unit_Class.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Unit/SelectedUnitWidget.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EchoesOfTheFracture.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/EchoesOfTheFracture.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Ressources/EnergiumRessource.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/EchoesOfTheFractureEditor/Development/EchoesOfTheFractureEditor.uhtmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/EchoesOfTheFractureEditor/Development/EchoesOfTheFractureEditor.uhtmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/EchoesOfTheFracture/UHT/EchoesOfTheFracture.init.gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/EchoesOfTheFracture/UHT/EchoesOfTheFracture.init.gen.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/EchoesOfTheFracture/UHT/RessourceCollector.gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/EchoesOfTheFracture/UHT/RessourceCollector.gen.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/EchoesOfTheFracture/UHT/RessourceCollector.generated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/EchoesOfTheFracture/UHT/RessourceCollector.generated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/EchoesOfTheFractureEditor/Development/Makefile.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/EchoesOfTheFractureEditor/Development/Makefile.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/ActionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/EchoesOfTheFracture/UnrealEditor-EchoesOfTheFracture.dll.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/EchoesOfTheFracture/UnrealEditor-EchoesOfTheFracture.dll.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/EchoesOfTheFracture/UnrealEditor-EchoesOfTheFracture.lib.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/EchoesOfTheFracture/UnrealEditor-EchoesOfTheFracture.lib.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry_0.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry_0.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/TargetInfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/TargetInfo.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-5728C7F746C0A397F73E5C9C6953BB22/CrashReportClient.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-6DBF434A44462AA107D978843BD03680/CrashReportClient.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-94EA321641C29FC05FB5858672FDBDCC/CrashReportClient.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-9EF47696451672870E488493D1195901/CrashReportClient.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-C4EEF5D843AEFAE2C290D1AB595021C4/CrashReportClient.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-D803749B4A01AAB713BDFB89820C1509/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture-backup-2025.01.19-12.32.19.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture-backup-2025.01.19-19.33.34.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture-backup-2025.01.21-09.36.38.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture-backup-2025.01.21-11.43.52.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture-backup-2025.01.21-19.47.20.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture-backup-2025.01.22-10.25.35.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture-backup-2025.01.22-13.27.40.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture-backup-2025.01.22-20.48.23.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture-backup-2025.01.24-08.51.24.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture-backup-2025.01.24-11.18.38.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/EchoesOfTheFracture/Private/RessourceCollector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/EchoesOfTheFracture/Private/RessourceCollector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/EchoesOfTheFracture/Public/RessourceCollector.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/EchoesOfTheFracture/Public/RessourceCollector.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,22 +59,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ Project.EchoesOfTheFracture.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Dev&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ Project.EchoesOfTheFracture.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "Dev",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "UnrealLinkOptionsId",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="C/C++ Project.EchoesOfTheFracture">
     <configuration name="EchoesOfTheFracture" type="CppProject" factoryName="C++ Project">
       <configuration_1 setup="1">
@@ -202,6 +185,7 @@
       <workItem from="1737018857177" duration="1958000" />
       <workItem from="1737733172416" duration="5030000" />
       <workItem from="1739736462235" duration="573000" />
+      <workItem from="1739792004651" duration="7080000" />
     </task>
     <servers />
   </component>
@@ -211,5 +195,9 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

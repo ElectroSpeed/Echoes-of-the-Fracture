@@ -7,9 +7,9 @@
 UENUM(BlueprintType)
 enum class EResourceType : uint8
 {
-	Energium     UMETA(DisplayName = "Energium"),
-	Wood    UMETA(DisplayName = "Wood"),
-	Bread     UMETA(DisplayName = "Bread")
+	Energium UMETA(DisplayName = "Energium"),
+	Wood UMETA(DisplayName = "Wood"),
+	Bread UMETA(DisplayName = "Bread")
 };
 
 UCLASS()
@@ -26,6 +26,9 @@ protected:
 public:
 	virtual void Tick(float DeltaTime) override;
 
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Resource")
+	int32 CurrentUnitCount;
+
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Resource")
 	EResourceType _resourceType;
 
@@ -35,19 +38,29 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Resource")
 	float _baseProductionTime;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Resource")
+	int32 _baseResourceProduced;
+
 	UPROPERTY(BlueprintReadOnly, Category = "Resource")
 	float _currentProductionTime;
 
-	UFUNCTION(BlueprintCallable, Category = "Resource")
-	float CalculateTimeForResource(float ResourceAmount) const;
+	UPROPERTY(BlueprintReadOnly, Category = "Resource")
+	float _collectedResources;
 
-	UFUNCTION()
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Resource")
+	bool _isNaturalResource;
+
+	UFUNCTION(BlueprintCallable, Category = "Resource Manager")
 	void AddUnit();
 
-	UFUNCTION()
+	UFUNCTION(BlueprintCallable, Category = "Resource Manager")
 	void RemoveUnit();
 
+	UFUNCTION(BlueprintCallable, Category = "Resource Manager")
+	float CollectResources();
+
 private:
-	int32 CurrentUnitCount;
 	void UpdateProductionTime();
+	void ProduceResource();
+	FTimerHandle ProductionTimer;
 };

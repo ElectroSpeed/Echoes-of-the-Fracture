@@ -15,9 +15,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define ECHOESOFTHEFRACTURE_RessourceCollector_generated_h
 
 #define FID_Users_angyo_Documents_GitHub_Echoes_of_the_Fracture_EchoesOfTheFracture_Source_EchoesOfTheFracture_Public_RessourceCollector_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+	DECLARE_FUNCTION(execCollectResources); \
 	DECLARE_FUNCTION(execRemoveUnit); \
-	DECLARE_FUNCTION(execAddUnit); \
-	DECLARE_FUNCTION(execCalculateTimeForResource);
+	DECLARE_FUNCTION(execAddUnit);
 
 
 #define FID_Users_angyo_Documents_GitHub_Echoes_of_the_Fracture_EchoesOfTheFracture_Source_EchoesOfTheFracture_Public_RessourceCollector_h_18_INCLASS_NO_PURE_DECLS \

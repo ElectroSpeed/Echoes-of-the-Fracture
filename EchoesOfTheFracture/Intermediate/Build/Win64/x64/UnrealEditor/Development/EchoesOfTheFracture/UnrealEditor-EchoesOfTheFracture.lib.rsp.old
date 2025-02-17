@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EchoesOfTheFracture.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\angyo\Documents\GitHub\Echoes-of-the-Fracture\EchoesOfTheFracture\Intermediate\Build\Win64\x64\EchoesOfTheFractureEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\angyo\Documents\GitHub\Echoes-of-the-Fracture\EchoesOfTheFracture\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfTheFracture\EchoesOfTheFracture.init.gen.cpp.obj"
+"C:\Users\angyo\Documents\GitHub\Echoes-of-the-Fracture\EchoesOfTheFracture\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfTheFracture\RessourceCollector.gen.cpp.obj"
+"C:\Users\angyo\Documents\GitHub\Echoes-of-the-Fracture\EchoesOfTheFracture\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfTheFracture\EchoesOfTheFracture.cpp.obj"
+"C:\Users\angyo\Documents\GitHub\Echoes-of-the-Fracture\EchoesOfTheFracture\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfTheFracture\RessourceCollector.cpp.obj"
+"C:\Users\angyo\Documents\GitHub\Echoes-of-the-Fracture\EchoesOfTheFracture\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfTheFracture\PerModuleInline.gen.cpp.obj"
+"C:\Users\angyo\Documents\GitHub\Echoes-of-the-Fracture\EchoesOfTheFracture\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfTheFracture\Default.rc2.res"
+/OUT:"C:\Users\angyo\Documents\GitHub\Echoes-of-the-Fracture\EchoesOfTheFracture\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfTheFracture\UnrealEditor-EchoesOfTheFracture.lib"
