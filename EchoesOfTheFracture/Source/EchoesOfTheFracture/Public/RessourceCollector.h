@@ -62,5 +62,5 @@ public:
 private:
 	void UpdateProductionTime();
 	void ProduceResource();
-	FTimerHandle ProductionTimer;
+	FTimerHandle ProductionTimer; //FTimerHandle* ProductionTimer;
 };

@@ -252,6 +252,7 @@
     <None Include="..\..\EchoesOfTheFracture.uproject"/>
     <None Include="..\..\Source\EchoesOfTheFracture.Target.cs"/>
     <None Include="..\..\Source\EchoesOfTheFractureEditor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>
@@ -266,7 +267,13 @@
     <ClCompile Include="..\..\Source\EchoesOfTheFracture\Private\RessourceCollector.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
+    <ClCompile Include="..\..\Source\EchoesOfTheFracture\Private\UnitProduction.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
     <ClCompile Include="..\..\Source\EchoesOfTheFracture\Public\RessourceCollector.h">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EchoesOfTheFracture\Public\UnitProduction.h">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <None Include="..\..\Plugins\Camera\Camera.uplugin"/>

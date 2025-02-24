@@ -11,6 +11,7 @@
     <None Include="..\..\Source\EchoesOfTheFractureEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -44,10 +45,16 @@
     <ClCompile Include="..\..\Source\EchoesOfTheFracture\Private\RessourceCollector.cpp">
       <Filter>Source\EchoesOfTheFracture\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\EchoesOfTheFracture\Private\UnitProduction.cpp">
+      <Filter>Source\EchoesOfTheFracture\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\EchoesOfTheFracture\Public">
       <UniqueIdentifier>{F94792D0-91B1-3236-A150-16FB5071406F}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\EchoesOfTheFracture\Public\RessourceCollector.h">
+      <Filter>Source\EchoesOfTheFracture\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EchoesOfTheFracture\Public\UnitProduction.h">
       <Filter>Source\EchoesOfTheFracture\Public</Filter>
     </ClCompile>
     <Filter Include="Plugins">

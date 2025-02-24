@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EchoesOfTheFractureModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9419f593b002a46c936902c959647d25e0c0412b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caa8e557593ebd2a4a5daaba2c41f98cc0dc8a09")]
 [assembly: System.Reflection.AssemblyProductAttribute("EchoesOfTheFractureModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EchoesOfTheFractureModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

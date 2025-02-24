@@ -14,26 +14,600 @@
   <component name="ChangeListManager">
     <list default="true" id="88a24e53-fd09-4186-8e3c-ebb19d5ce0c9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EchoesOfTheFracture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EchoesOfTheFracture/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_0.exp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_0.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_1.exp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_10.exp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_10.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_11.exp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_11.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_12.exp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_12.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_2.exp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_3.exp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_3.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_4.exp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_4.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_5.exp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_5.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_6.exp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_6.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_7.exp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_7.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_8.exp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_8.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_9.exp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.patch_9.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-EchoesOfTheFracture.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Building/BP_Building_Class.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Building/BP_Building_Class.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Ressources/EnergiumRessource.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/RTS/BP_Menu_Controller.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/RTS/BP_Menu_Controller.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/RTS/BP_RTS_Controller.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/RTS/BP_RTS_Controller.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/RTS/RTS_Interface.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/RTS/RTS_Interface.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Ressources/BP_Ressource.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Ressources/BP_Ressource.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Scene/MainMenu.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Scene/MainMenu.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Unit/BP_Unit_Class.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Unit/BP_Unit_Class.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Assets/Widget/SelectedUnitsArea.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Materials/M_Basic_Wall.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Materials/M_Basic_Wall.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/KL/LS5SOI4TYLUJZ1O3I9JIZN.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/KL/LS5SOI4TYLUJZ1O3I9JIZN.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/UA/OD841A9YEEDPFKNAFGUAIC.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/UA/OD841A9YEEDPFKNAFGUAIC.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/EchoesOfTheFractureModuleRules.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/EchoesOfTheFractureModuleRules.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/EchoesOfTheFractureModuleRules/obj/Development/EchoesOfTheFractureModuleRules.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/EchoesOfTheFractureModuleRules/obj/Development/EchoesOfTheFractureModuleRules.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/EchoesOfTheFractureModuleRules/obj/Development/EchoesOfTheFractureModuleRules.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/EchoesOfTheFractureModuleRules/obj/Development/EchoesOfTheFractureModuleRules.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/EchoesOfTheFractureModuleRules/obj/Development/EchoesOfTheFractureModuleRules.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/EchoesOfTheFractureModuleRules/obj/Development/EchoesOfTheFractureModuleRules.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/EchoesOfTheFractureModuleRules/obj/project.packagespec.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/EchoesOfTheFractureEditor/Development/EchoesOfTheFractureEditor.uhtmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/EchoesOfTheFractureEditor/Development/EchoesOfTheFractureEditor.uhtmanifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/EchoesOfTheFracture/UHT/EchoesOfTheFracture.init.gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/EchoesOfTheFracture/UHT/EchoesOfTheFracture.init.gen.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/EchoesOfTheFracture/UHT/RessourceCollector.gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/EchoesOfTheFracture/UHT/RessourceCollector.gen.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/EchoesOfTheFracture/UHT/RessourceCollector.generated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/EchoesOfTheFracture/UHT/RessourceCollector.generated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/EchoesOfTheFracture/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/EchoesOfTheFracture/UHT/Timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/EchoesOfTheFractureEditor/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/EchoesOfTheFractureEditor/ActionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/EchoesOfTheFractureEditor/Development/DependencyCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/EchoesOfTheFractureEditor/Development/DependencyCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/EchoesOfTheFractureEditor/Development/Makefile.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/EchoesOfTheFractureEditor/Development/Makefile.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/ActionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/EchoesOfTheFracture/RessourceCollector.cpp.dep.lc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/EchoesOfTheFracture/RessourceCollector.cpp.obj.rsp.lc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/EchoesOfTheFracture/RessourceCollector.gen.cpp.dep.lc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/EchoesOfTheFracture/RessourceCollector.gen.cpp.obj.rsp.lc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/EchoesOfTheFracture/UnrealEditor-EchoesOfTheFracture.dll.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/EchoesOfTheFracture/UnrealEditor-EchoesOfTheFracture.dll.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/EchoesOfTheFracture/UnrealEditor-EchoesOfTheFracture.dll.rsp.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/EchoesOfTheFracture/UnrealEditor-EchoesOfTheFracture.dll.rsp.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/EchoesOfTheFracture/UnrealEditor-EchoesOfTheFracture.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/EchoesOfTheFracture/UnrealEditor-EchoesOfTheFracture.exp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/EchoesOfTheFracture/UnrealEditor-EchoesOfTheFracture.lib.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/EchoesOfTheFracture/UnrealEditor-EchoesOfTheFracture.lib.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/EchoesOfTheFracture/UnrealEditor-EchoesOfTheFracture.lib.rsp.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/EchoesOfTheFracture/UnrealEditor-EchoesOfTheFracture.lib.rsp.old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry_0.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry_0.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/Crypto.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/ObjectMixerSerializedData.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/TranslationPickerSettings.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/UnrealInsightsSessionBrowserSettings.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/EchoesOfTheFracture.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/UE5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/UnrealEditor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/root.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/EchoesOfTheFracture.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/EchoesOfTheFracture.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/EchoesOfTheFracture.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/EchoesOfTheFracture.vcxproj.filters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ReimportCache/3688439234.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ReimportCache/3688439234.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/TargetInfo.EchoesOfTheFracture.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/TargetInfo.Engine.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Building/BP_Building_Class_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Building/BP_Building_Class_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Building/BP_Building_Class_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Building/BP_Building_Class_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Building/BP_Building_Class_Auto7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Building/BP_Building_Class_Auto9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Building/BP_ConcordianHouse_Auto1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Building/BP_ConcordianHouse_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Building/BP_ConcordianHouse_Auto4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Camera/BP_CameraController_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Camera/BP_CameraController_Auto1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Camera/BP_CameraController_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Camera/BP_CameraController_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Camera/BP_CameraController_Auto4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Camera/BP_CameraController_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Camera/BP_CameraController_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Camera/BP_CameraController_Auto7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Camera/BP_CameraController_Auto8.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Camera/BP_CameraController_Auto9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Camera/BP_Camera_Auto1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Camera/BP_Camera_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Camera/BP_Camera_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Camera/BP_Camera_Auto4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Camera/BP_Camera_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Camera/BP_Camera_Auto9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Camera/RTS_GameMode_Auto1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Camera/RTS_GameMode_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Camera/RTS_GameMode_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Character/BP_Concordian_Warrior_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Character/BP_Game_ModeBase_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Character/BP_Game_ModeBase_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Character/BP_Game_ModeBase_Auto7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Character/BP_Shooter_of_the_Rift_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Character/BP_Unit_Class_Auto1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Character/BP_Unit_Class_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Character/BP_Unit_Class_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Character/BP_Unit_Class_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Character/BP_Unit_Class_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Character/BP_Unit_Class_Auto7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Character/BP_Unit_Class_Auto8.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Character/DecalBlue_Auto4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Character/DecalGreen_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Character/DecalGreen_Auto8.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Character/Design_sans_titre__14__Auto1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Character/Design_sans_titre__14__Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Character/Design_sans_titre__14__Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Map/MainMenuWidget_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Map/MainMenuWidget_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Map/MainMenuWidget_Auto4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Map/MainMenuWidget_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Map/MainMenu_Auto1.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Map/MainMenu_Auto2.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/BP_Game_ModeBase_Auto1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/BP_Menu_Controller_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/BP_RTSController_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/BP_RTSController_Auto1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/BP_RTSController_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/BP_RTSController_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/BP_RTSController_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/BP_RTS_Controller_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/BP_RTS_Controller_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/BP_RTS_Controller_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/BP_RTS_Controller_Auto4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/BP_RTS_Controller_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/BP_RTS_Controller_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/BP_RTS_Controller_Auto7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/BP_RTS_Controller_Auto8.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/BP_RTS_Controller_Auto9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_GameMode_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_GameMode_Auto1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_GameMode_Auto4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_GameMode_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_Interface_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_Interface_Auto1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_Interface_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_Interface_Auto3.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_Interface_Auto3.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_Interface_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_Interface_Auto7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_Interface_Auto8.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_Marque_HUD_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_Marque_HUD_Auto4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_Marque_HUD_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_Marque_HUD_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_Marque_HUD_Auto7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_Marque_HUD_Auto8.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_Marque_HUD_Auto9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/RTS_MenuGameMode_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/SelectedUnitWidget_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/SelectedUnitWidget_Auto4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/SelectedUnitsArea_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/RTS/SelectedUnitsArea_Auto7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Ressources/BP_Ressource_Auto1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Ressources/BP_Ressource_Auto1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Ressources/BP_Ressource_Auto2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Ressources/BP_Ressource_Auto2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Ressources/BP_Ressource_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Ressources/BP_Ressource_Auto4.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Ressources/BP_Ressource_Auto4.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Ressources/BP_Ressource_Auto5.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Ressources/BP_Ressource_Auto5.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Ressources/BP_Ressource_Auto6.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Ressources/BP_Ressource_Auto6.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Ressources/BP_Ressource_Auto7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Ressources/EnergiumRessource_Auto1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Widget/SelectedBuildWidget_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Widget/SelectedBuildWidget_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Widget/SelectedBuildWidget_Auto4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Widget/SelectedBuildWidget_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Materials/M_Basic_Wall_Auto7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/0/5Q/AQUAJ086SFTNACXXEUACTY_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/0/5Q/AQUAJ086SFTNACXXEUACTY_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/0/I8/O9B4D32AXHKD61Y6H247K4_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/0/I8/O9B4D32AXHKD61Y6H247K4_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/1/P4/8X1QFJDKMW2JQIOLZ4W9J7_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/1/P4/8X1QFJDKMW2JQIOLZ4W9J7_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/2/62/XDQZRKVCT7NM5FCR6F2RYX_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/2/62/XDQZRKVCT7NM5FCR6F2RYX_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/3/0Z/SDF0YJ60H5JC2IDVHISWPV_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/3/0Z/SDF0YJ60H5JC2IDVHISWPV_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/3/5T/PM5VLM1AAKGLOS9TQSCWRR_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/3/5T/PM5VLM1AAKGLOS9TQSCWRR_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/4/01/FSK7DNCU9NPA7UBWLASNXB_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/4/01/FSK7DNCU9NPA7UBWLASNXB_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/5/2M/7E9JUOSAEIGYM7BC94W38D_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/5/2M/7E9JUOSAEIGYM7BC94W38D_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/5/3E/T8APVKA0H6E8N77PDCWR9F_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/5/3E/T8APVKA0H6E8N77PDCWR9F_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/5/4N/UA858M1KCD9ZMA4KJGZJJE_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/5/DG/F3CXZZR0U2ESTLSM49IIWO_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/5/DG/F3CXZZR0U2ESTLSM49IIWO_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/5/T1/7QD2LYH5CT2C1WL9P6V0X3_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/6/OA/C4JUCW3DG4LXJMQXC4GITX_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/6/OA/C4JUCW3DG4LXJMQXC4GITX_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/6/XW/V6MWHSHNW1XWASJQV4Z18K_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/6/XW/V6MWHSHNW1XWASJQV4Z18K_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/7/I2/0Y42WUFWJ4BRBQAWQUIXI5_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/7/I2/0Y42WUFWJ4BRBQAWQUIXI5_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/9/22/5B2KD3ZXRB2UEO9DZ35W1T_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/9/22/5B2KD3ZXRB2UEO9DZ35W1T_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/9/4F/4N2KKGB8EFRHT2G355TBEB_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/A/AE/1F7V3CGN57AXDLW1K7QNEF_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/A/AE/1F7V3CGN57AXDLW1K7QNEF_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/A/SW/BP8DPZEGO6ARHY2NRSNG8F_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/A/SW/BP8DPZEGO6ARHY2NRSNG8F_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/A/UN/SZDQ0R7BGLNDPDCX73H916_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/A/UN/SZDQ0R7BGLNDPDCX73H916_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/B/4M/CAPN2D79LIZLZ5O6UVMN08_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/B/4M/CAPN2D79LIZLZ5O6UVMN08_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/B/BS/J65WYPUCKIUO01P7FNQUF5_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/B/BS/J65WYPUCKIUO01P7FNQUF5_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/B/DZ/678TBHECS1GH7E0G1OZPFK_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/B/DZ/678TBHECS1GH7E0G1OZPFK_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/C/53/081JQJCQ9KVM54I8HUYG9N_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/C/53/081JQJCQ9KVM54I8HUYG9N_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/C/HW/WHNJ90Z4538CKWQBAROR3Z_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/C/HW/WHNJ90Z4538CKWQBAROR3Z_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/C/S4/922SYZYNBPPYSGU7B1NG8E_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/C/S4/922SYZYNBPPYSGU7B1NG8E_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/D/53/ZBS5XJ0Q3JWWULR4TPU0IR_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/D/53/ZBS5XJ0Q3JWWULR4TPU0IR_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/D/85/D7XXCS4M8O756P17JNALVK_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/E/20/GK1798OEWSEGHYUULXCC25_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/E/20/GK1798OEWSEGHYUULXCC25_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/E/VW/VEZ35P1F3HUPNKE5LGRDAG_Auto5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/__ExternalActors__/NewMap/E/VW/VEZ35P1F3HUPNKE5LGRDAG_Auto6.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Temp/Untitled_1_Auto0.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Temp/Untitled_1_Auto2.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Temp/Untitled_1_Auto3.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Temp/Untitled_1_Auto4.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Temp/Untitled_1_Auto5.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Temp/Untitled_1_Auto6.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Temp/Untitled_1_Auto7.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Temp/Untitled_1_Auto8.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Temp/Untitled_1_Auto9.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-115511CC4E2C84D4A0902CB075A7AF41/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-31909B524EFA1527CE16C7995C986765/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-53743A734E0E0972C815A4B0403D645D/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-6CF92FD64072E8D30D058C9714FEE676/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-A0D8F9C0402662CC4C192FBFD74F8BD6/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-B6239E1543956C80E6E078859CC89BD8/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-C8B016AB4B8E48A2421CAEB895CDD952/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Editor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Editor.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Game.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Game.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/GameUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/GameUserSettings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Niagara.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WorldState/1078873522.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WorldState/1809221978.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WorldState/2960232911.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WorldState/3222581562.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WorldState/4109193343.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WorldState/47584116.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WorldState/603029143.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-31909B524EFA1527CE16C7995C986765_0000/CrashContext.runtime-xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-31909B524EFA1527CE16C7995C986765_0000/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-31909B524EFA1527CE16C7995C986765_0000/EchoesOfTheFracture.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-31909B524EFA1527CE16C7995C986765_0000/Slate.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-31909B524EFA1527CE16C7995C986765_0000/UEMinidump.dmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-5728C7F746C0A397F73E5C9C6953BB22_0000/CrashContext.runtime-xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-5728C7F746C0A397F73E5C9C6953BB22_0000/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-5728C7F746C0A397F73E5C9C6953BB22_0000/EchoesOfTheFracture.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-5728C7F746C0A397F73E5C9C6953BB22_0000/UEMinidump.dmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-6DBF434A44462AA107D978843BD03680_0000/CrashContext.runtime-xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-6DBF434A44462AA107D978843BD03680_0000/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-6DBF434A44462AA107D978843BD03680_0000/EchoesOfTheFracture.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-6DBF434A44462AA107D978843BD03680_0000/UEMinidump.dmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-84F179D842C24510C6D2DCA47C85C8C8_0000/CrashContext.runtime-xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-84F179D842C24510C6D2DCA47C85C8C8_0000/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-84F179D842C24510C6D2DCA47C85C8C8_0000/EchoesOfTheFracture.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-84F179D842C24510C6D2DCA47C85C8C8_0000/UEMinidump.dmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-9EF47696451672870E488493D1195901_0000/CrashContext.runtime-xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-9EF47696451672870E488493D1195901_0000/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-9EF47696451672870E488493D1195901_0000/EchoesOfTheFracture.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-9EF47696451672870E488493D1195901_0000/UEMinidump.dmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-9EF47696451672870E488493D1195901_0001/CrashContext.runtime-xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-9EF47696451672870E488493D1195901_0001/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-9EF47696451672870E488493D1195901_0001/EchoesOfTheFracture.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-9EF47696451672870E488493D1195901_0001/UEMinidump.dmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-B156D7E2485C6C895C8A75813C521BBA_0000/Breadcrumbs_RHIThread_0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-B156D7E2485C6C895C8A75813C521BBA_0000/CrashContext.runtime-xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-B156D7E2485C6C895C8A75813C521BBA_0000/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-B156D7E2485C6C895C8A75813C521BBA_0000/EchoesOfTheFracture.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-B156D7E2485C6C895C8A75813C521BBA_0000/UEMinidump.dmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-EFCCDB144D35BD258357328586189CAF_0000/CrashContext.runtime-xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-EFCCDB144D35BD258357328586189CAF_0000/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-EFCCDB144D35BD258357328586189CAF_0000/EchoesOfTheFracture.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-EFCCDB144D35BD258357328586189CAF_0000/UEMinidump.dmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture-backup-2025.02.17-09.10.58.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture-backup-2025.02.17-09.13.15.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture-backup-2025.02.17-09.32.01.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture-backup-2025.02.17-09.38.21.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture-backup-2025.02.17-09.50.38.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture-backup-2025.02.17-10.43.16.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture_2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/EchoesOfTheFracture_3.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T13.48.45.505Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T13.48.54.492Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T13.49.47.279Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T13.49.49.969Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T13.55.42.541Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T13.55.43.585Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T14.47.00.016Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T14.47.01.350Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T15.45.54.506Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T15.46.05.849Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T15.47.38.891Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T15.47.46.709Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T15.49.08.785Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T15.50.01.996Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T15.52.26.184Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T15.54.16.112Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T15.54.22.395Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T16.05.23.918Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T16.07.17.233Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T16.07.41.422Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T16.08.26.900Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T16.08.46.890Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T16.08.54.282Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T16.12.04.245Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T16.12.22.900Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T16.12.50.371Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T16.15.00.393Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T16.15.45.616Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T16.16.46.841Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T16.16.57.946Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T16.25.48.121Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T16.26.50.232Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T16.27.32.840Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00004a84-2025-01-23T16.27.37.990Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T00.14.46.544Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T09.29.18.641Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T09.30.37.646Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.06.51.619Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.07.20.235Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.07.56.410Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.13.47.440Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.17.12.477Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.19.11.799Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.22.55.207Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.23.06.253Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.23.12.817Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.27.39.630Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.28.25.121Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.30.17.402Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.33.57.210Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.34.29.338Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.36.35.345Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.36.50.533Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.41.15.202Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.41.41.053Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.43.28.764Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.45.07.677Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.45.31.958Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T10.48.45.077Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T11.00.06.175Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T11.45.20.703Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T11.45.33.138Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T11.46.12.997Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T12.00.18.646Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T12.22.45.834Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T13.44.37.232Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T13.45.33.571Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T13.45.53.227Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T13.50.35.376Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T13.51.35.337Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T13.53.43.304Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T13.59.21.639Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T14.05.35.922Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T14.16.18.074Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T14.30.26.744Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T14.34.16.396Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T14.43.10.174Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T14.43.37.778Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T14.45.29.222Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T14.46.32.164Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T14.48.41.262Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T14.49.55.297Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T14.51.45.634Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T16.16.42.901Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T17.24.45.128Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_NewMap-00008298-2025-01-20T17.25.10.219Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000015e8-2025-01-22T11.27.35.114Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000015e8-2025-01-22T11.29.15.760Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000015e8-2025-01-22T11.31.23.598Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000015e8-2025-01-22T11.35.47.448Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000015e8-2025-01-22T11.36.11.792Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T14.06.37.996Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T14.09.13.598Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T14.09.51.585Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T14.23.44.795Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T14.24.05.030Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T14.29.31.137Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T14.31.25.541Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T14.32.48.005Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T14.52.30.703Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T14.53.04.673Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T16.06.07.116Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T16.08.54.215Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T16.11.58.296Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T16.15.19.320Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T16.15.30.393Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T16.36.35.646Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T17.50.04.664Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T17.52.38.142Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T17.54.25.783Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T18.03.00.413Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000024e8-2025-01-21T18.04.55.874Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-00004a08-2025-01-18T16.26.40.259Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-00005638-2025-01-17T11.28.36.997Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-00005638-2025-01-17T11.28.43.624Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-0000628c-2025-01-22T10.31.24.558Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-0000628c-2025-01-22T10.50.06.297Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-0000628c-2025-01-22T10.52.05.233Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-0000628c-2025-01-22T10.54.16.470Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-0000628c-2025-01-22T10.55.05.674Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-0000628c-2025-01-22T11.25.32.137Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T14.31.12.821Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T16.27.50.465Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T22.22.19.824Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T22.27.56.746Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T22.28.42.885Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T22.32.11.086Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T22.35.30.019Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T22.47.07.742Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T22.47.12.933Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T22.49.19.719Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T22.50.35.086Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T22.51.23.471Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T22.58.05.280Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T22.58.29.688Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T23.01.12.265Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T23.01.50.971Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T23.09.37.995Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T23.10.19.847Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T23.17.11.064Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T23.18.24.595Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T23.43.39.508Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T23.44.52.744Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T23.48.30.950Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T23.49.10.201Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T23.51.07.399Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T23.51.42.355Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-17T23.52.35.077Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-18T14.15.45.005Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-18T14.17.40.635Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-18T14.29.00.420Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-18T14.30.39.955Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-18T15.12.50.964Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-18T15.13.38.085Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000068f4-2025-01-18T15.13.41.703Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-00006bb8-2025-01-17T11.53.24.559Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-00006bb8-2025-01-17T11.54.30.345Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-00006bb8-2025-01-17T11.55.55.771Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-00008298-2025-01-20T00.07.57.271Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-00008298-2025-01-20T00.08.21.514Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000087f8-2025-01-19T13.59.46.800Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000087f8-2025-01-19T14.00.46.460Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000087f8-2025-01-19T14.15.00.020Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000087f8-2025-01-19T14.22.05.402Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000087f8-2025-01-19T14.23.29.943Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000087f8-2025-01-19T14.28.52.898Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000087f8-2025-01-19T20.16.13.922Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000087f8-2025-01-19T20.16.59.299Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000087f8-2025-01-19T20.17.31.572Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000087f8-2025-01-19T20.23.40.886Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000087f8-2025-01-19T20.24.49.535Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000087f8-2025-01-19T20.28.12.319Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000087f8-2025-01-19T20.30.22.221Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000087f8-2025-01-19T20.30.33.787Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000087f8-2025-01-19T20.32.21.514Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-000088f4-2025-02-10T18.28.40.702Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_OpenWorld.Engine-00008984-2025-02-16T21.44.47.831Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000051a8-2025-01-24T14.23.17.035Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000051a8-2025-01-24T14.23.21.581Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000051a8-2025-01-24T14.24.53.646Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000051a8-2025-01-24T14.24.56.790Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000051a8-2025-01-24T14.46.15.540Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000051a8-2025-01-24T14.46.35.989Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000051a8-2025-01-24T14.54.24.777Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000051a8-2025-01-24T14.56.58.465Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000051a8-2025-01-24T14.58.06.680Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000051a8-2025-01-24T14.59.04.148Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000051a8-2025-01-24T14.59.25.104Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000051a8-2025-01-24T14.59.29.649Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000051a8-2025-01-24T17.09.13.564Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000051a8-2025-01-24T17.09.16.613Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000051a8-2025-01-24T17.09.46.501Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000051a8-2025-01-24T20.49.34.608Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000051a8-2025-01-24T20.49.37.820Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T13.47.41.077Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T13.48.02.931Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T13.48.11.187Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T13.50.56.012Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T13.51.31.164Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T13.57.57.784Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T13.58.30.949Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T14.01.12.429Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T14.18.43.875Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T14.19.20.507Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T14.19.42.903Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T14.19.56.634Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T14.20.36.607Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T14.24.16.175Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T14.27.01.461Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T14.28.28.832Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T15.23.00.310Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T15.23.20.944Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T15.23.51.752Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T15.26.45.362Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T15.33.53.788Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T15.33.55.684Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T15.36.58.953Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T15.45.42.837Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T15.51.40.179Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T15.52.35.166Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-0000618c-2025-02-17T15.53.08.734Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00007b6c-2025-01-24T10.10.19.000Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00007b6c-2025-01-24T10.10.26.257Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00007b6c-2025-01-24T10.11.05.483Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00007b6c-2025-01-24T10.11.21.711Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00007b6c-2025-01-24T11.21.00.924Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00007b6c-2025-01-24T11.21.08.529Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00007b6c-2025-01-24T11.45.18.329Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00007b6c-2025-01-24T11.54.22.809Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00007b6c-2025-01-24T11.54.28.150Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00007b6c-2025-01-24T11.54.35.162Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00007b6c-2025-01-24T11.54.37.281Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00007b6c-2025-01-24T12.03.39.906Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00007b6c-2025-01-24T12.04.02.938Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00007b6c-2025-01-24T12.05.31.921Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00007b6c-2025-01-24T12.05.37.733Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000088f4-2025-02-10T18.28.57.138Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000088f4-2025-02-10T18.28.59.484Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000088f4-2025-02-10T18.29.29.800Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-000088f4-2025-02-10T18.29.46.852Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00008984-2025-02-16T21.45.06.712Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00008984-2025-02-16T21.45.12.653Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00008984-2025-02-16T21.57.41.532Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00008984-2025-02-17T09.36.45.582Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00008984-2025-02-17T09.37.02.488Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_TopDownMap-00008984-2025-02-17T09.59.13.650Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T16.34.07.809Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T16.34.57.335Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T16.39.31.938Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T16.39.35.750Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T16.41.38.944Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T16.41.44.363Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T16.42.09.449Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T16.42.14.380Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T16.43.12.758Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T16.46.35.888Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T16.47.45.642Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T16.47.49.214Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T16.48.48.415Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T16.49.00.121Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T16.49.55.975Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T16.55.07.098Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T17.01.39.650Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T17.01.42.432Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T17.13.19.231Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T17.13.23.661Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T17.13.59.660Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_Untitled-00004a84-2025-01-23T17.14.09.151Z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_c12efe0f993d09f0/Default/DDCKey-Editor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_c1ff929ae6e37fb4/Default/DDCKey-Editor.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/EchoesOfTheFracture/Private/RessourceCollector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/EchoesOfTheFracture/Private/RessourceCollector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Telemetry/Telemetry.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Untitled_1.umap" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/EchoesOfTheFracture/Public/RessourceCollector.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/EchoesOfTheFracture/Public/RessourceCollector.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,22 +633,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ Project.EchoesOfTheFracture.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.codeium.enabled": "true",
-    "git-widget-placeholder": "Dev",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "UnrealLinkOptionsId",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ Project.EchoesOfTheFracture.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Dev&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;UnrealLinkOptionsId&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C/C++ Project.EchoesOfTheFracture">
     <configuration name="EchoesOfTheFracture" type="CppProject" factoryName="C++ Project">
       <configuration_1 setup="1">
@@ -186,6 +760,8 @@
       <workItem from="1737733172416" duration="5030000" />
       <workItem from="1739736462235" duration="573000" />
       <workItem from="1739792004651" duration="7080000" />
+      <workItem from="1739975478006" duration="2207000" />
+      <workItem from="1740135936206" duration="12929000" />
     </task>
     <servers />
   </component>
