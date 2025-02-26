@@ -50,6 +50,7 @@ void ARessourceCollector::UpdateProductionTime()
 	if (CurrentUnitCount > 0)
 	{
 		_currentProductionTime = _baseProductionTime / CurrentUnitCount;
+		_collectedResources = 0;
 	}
 	else
 	{
@@ -70,6 +71,9 @@ void ARessourceCollector::ProduceResource()
 
 float ARessourceCollector::CollectResources()
 {
+	// Debug message
+	GEngine->AddOnScreenDebugMessage(-1, 1.5f, FColor::Yellow,
+		FString::Printf(TEXT("Enter %f")));
 	float Collected = _collectedResources;
 	_collectedResources -= 5.0f;
 	return Collected;
