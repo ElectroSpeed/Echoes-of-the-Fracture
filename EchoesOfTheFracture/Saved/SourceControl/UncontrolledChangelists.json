@@ -12,8 +12,15 @@
 				"C:/Users/angyo/Documents/GitHub/Echoes-of-the-Fracture/EchoesOfTheFracture/Content/StarterContent/Blueprints/Assets/RTS/RTS_Interface.uasset",
 				"C:/Users/angyo/Documents/GitHub/Echoes-of-the-Fracture/EchoesOfTheFracture/Content/StarterContent/Blueprints/Assets/Scene/MainMenu.umap",
 				"C:/Users/angyo/Documents/GitHub/Echoes-of-the-Fracture/EchoesOfTheFracture/Content/StarterContent/Blueprints/Assets/Unit/BP_Unit_Class.uasset",
-				"C:/Users/angyo/Documents/GitHub/Echoes-of-the-Fracture/EchoesOfTheFracture/Content/StarterContent/Blueprints/Assets/Unit/WD_HealthBar.uasset",
-				"C:/Users/angyo/Documents/GitHub/Echoes-of-the-Fracture/EchoesOfTheFracture/Content/StarterContent/Blueprints/Assets/Unit/WP_HealthBar.uasset"
+				"C:/Users/angyo/Documents/GitHub/Echoes-of-the-Fracture/EchoesOfTheFracture/Content/StarterContent/Blueprints/Assets/Unit/WP_HealthBar.uasset",
+				"C:/Users/angyo/Documents/GitHub/Echoes-of-the-Fracture/EchoesOfTheFracture/Content/StarterContent/Blueprints/Assets/Building/BP_Building_Class.uasset",
+				"C:/Users/angyo/Documents/GitHub/Echoes-of-the-Fracture/EchoesOfTheFracture/Content/StarterContent/Blueprints/Assets/Unit/BP_Shooter_of_the_Rift.uasset",
+				"C:/Users/angyo/Documents/GitHub/Echoes-of-the-Fracture/EchoesOfTheFracture/Content/StarterContent/Blueprints/Assets/Unit/BP_Concordian_Warrior.uasset",
+				"C:/Users/angyo/Documents/GitHub/Echoes-of-the-Fracture/EchoesOfTheFracture/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body.uasset",
+				"C:/Users/angyo/Documents/GitHub/Echoes-of-the-Fracture/EchoesOfTheFracture/Content/StarterContent/Blueprints/Assets/Building/BP_ConcordianHouse.uasset",
+				"C:/Users/angyo/Documents/GitHub/Echoes-of-the-Fracture/EchoesOfTheFracture/Content/StarterContent/Materials/M_Basic_Wall.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/angyo/Documents/GitHub/Echoes-of-the-Fracture/EchoesOfTheFracture/Content/StarterContent/Blueprints/Assets/Unit/WD_HealthBar.uasset"
 			]
 		}
 	]
